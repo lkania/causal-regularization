@@ -1,0 +1,20 @@
+# computation
+install.packages('data.table')
+install.packages('doParallel')
+install.packages('boot')
+install.packages('limSolve')
+install.packages('CVXR')
+
+# plots
+install.packages('scales')
+install.packages('latex2exp')
+install.packages('ggplot2')
+install.packages('reshape2')
+install.packages('ggpubr')
+install.packages('ggExtra')
+install.packages('grid')
+install.packages('gridExtra')
+install.packages('ggpubr')
+install.packages('gtable')
+install.packages('ggnewscale')
+install.packages('knitr')
